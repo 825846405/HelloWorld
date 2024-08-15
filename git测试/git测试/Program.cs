@@ -17,6 +17,24 @@
             Console.WriteLine("");
 
 
+            Console.WriteLine("我是老王，我进行了一些操作");
+
+        }
+
+        public static double Sum(double a,double b)
+        {
+            return a + b;
+        }
+
+        public static double Sub(double a, double b)
+        {
+            return a - b;
+        }
+
+
+        public static double Mul(double a, double b)
+        {
+            return a * b;
         }
     }
 }
