@@ -30,5 +30,11 @@
         {
             return a - b;
         }
+
+
+        public static double Mul(double a, double b)
+        {
+            return a * b;
+        }
     }
 }
